@@ -35,3 +35,13 @@ coolText = "Answer is... \(Double("5")!+Double("78")!)"
 
 "My age is... \(age)"
 
+var sunny :Bool = age >= 16
+
+if sunny {
+    print("It's Sunny!")
+}
+    else{
+    print("It's not sunny!")
+}
+
+
